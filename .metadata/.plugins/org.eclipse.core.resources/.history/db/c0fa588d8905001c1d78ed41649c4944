@@ -1,0 +1,13 @@
+application: ''
+client: ''
+default-zone: http://localhost:8761/
+eureka: ''
+fetch-registry: true
+hostname: localhost
+instance: ''
+name: Vaccine-Center
+port: 8181
+register-with-eureka: true
+server: ''
+service-url: ''
+spring: ''
